@@ -1,0 +1,120 @@
+[
+    {
+        "idx": 0,
+        "Instruction_Adherence_results": {
+            "reason": "{Qualitative Evaluation}:Model B is significantly better than Model A. Both models start well, using a direct and appropriate quote from the novel to answer the first question. However, Model A completely fails in the second round by repeating the exact same audio clip from the first round, demonstrating a failure to understand the sequential nature of the questions. While it technically remains \"in character,\" it does not adhere to the instruction of answering the new question. Model B, in contrast, provides unique, thoughtful, and highly authentic responses to each question. Its language is more evocative of the novel's style, and it correctly references other characters and plot points, creating a much more believable and consistent portrayal of Zhang Wuji. Model B's performance is flawless, while Model A's is critically hampered by a major error.\n\n[Scores]: (3, 10)",
+            "score": [
+                3,
+                10
+            ]
+        },
+        "Speech_Fluency_results": {
+            "reason": "Model B is notably more fluent and natural in its delivery. The pacing is conversational and smooth, effectively conveying the character's thoughts and emotions. Model A, while clear, speaks with a much slower, more deliberate, and somewhat stilted rhythm, with unnatural pauses between phrases that make the speech sound less authentic.\n\n[Scores]: (6, 9)",
+            "score": [
+                6,
+                9
+            ]
+        },
+        "Conversational_Coherence_results": {
+            "reason": "Both models provide answers that are coherent and consistent with the character of Zhang Wuji. They successfully maintain a logical flow throughout the multi-turn conversation.\n\nModel A is consistent in its portrayal of Zhang Wuji's reluctance to lead. The answers logically progress from expressing the initial burden of the role to the final decision to abdicate due to his unsuitability for political maneuvering. The reasoning remains the same across all turns, which ensures coherence.\n\nModel B also demonstrates excellent coherence. It builds a slightly more detailed narrative arc. It starts with the general burden of leadership, then moves to a conditional desire for retirement (once peace is achieved), and finally explains the specific factors (persuasion from others, self-awareness of his flaws) that led to his abdication. This progression feels very natural and logical, with each answer building upon the last.\n\nOverall, both are very strong, but Model B's responses feel slightly more interconnected as a single, unfolding thought process.\n\n[Scores]: (9, 10)",
+            "score": [
+                9,
+                10
+            ]
+        },
+        "Speech_Naturalness_results": {
+            "reason": "Model B's speech is significantly more natural and human-like. The pacing, intonation, and flow are much better, creating a more convincing and engaging listening experience. Model A sounds more robotic; its pacing is unnaturally slow and deliberate, and there's a noticeable echo or reverb effect that makes it sound artificial.\n\n[Scores]: (6, 9)",
+            "score": [
+                6,
+                9
+            ]
+        },
+        "Prosodic_Consistency_results": {
+            "reason": "Model A's prosody is an excellent match for the character of Zhang Wuji. The voice has a youthful quality, but is imbued with a sense of weariness and reluctance that perfectly captures his feelings about being the Ming Cult's leader. The intonation is gentle and thoughtful, aligning with his kind and non-confrontational nature. This character-appropriate prosody is maintained consistently across all three answers.\n\nModel B's voice is also consistent, but the prosodic style is less fitting for Zhang Wuji. It sounds more like a standard, confident, and somewhat older martial arts hero. The tone is a bit too firm and declarative, lacking the subtle humility, self-doubt, and gentleness that are hallmarks of Zhang Wuji's personality. While consistent, the chosen style doesn't align as closely with the character's persona.\n\n[Scores]: (9, 6)",
+            "score": [
+                9,
+                6
+            ]
+        },
+        "Emotion_Appropriateness_results": {
+            "reason": "Model A's performance is excellent. The voice actor captures 张无忌's gentle, weary, and reluctant nature perfectly. In the first two rounds, the tone is filled with a sense of burden and melancholy, accurately reflecting his feelings about being a leader. There's a sighing quality to the voice that conveys his helplessness. In the final round, the tone shifts to one of calm relief, aligning with his decision to step down and seek a peaceful life. The emotional arc is consistent and highly appropriate for the character.\n\nModel B's portrayal is less successful. The tone is too firm, assertive, and at times, almost indignant. It sounds more like a decisive, stern leader than the kind-hearted and often indecisive 张无忌. The emotion lacks the nuance of weariness and longing for peace that is central to the character's struggles in the later parts of the novel. It misinterprets his reluctance as stern complaint, failing to capture his gentle spirit.\n\n[Scores]: (9, 3)",
+            "score": [
+                9,
+                3
+            ]
+        },
+        "Personality_Consistency_results": {
+            "reason": "Model B provides a more consistent and nuanced portrayal of Zhang Wuji. Its responses are delivered in a classical-sounding prose that feels authentic to the wuxia setting, and it accurately captures the character's internal conflict between his duty and his personal desires. It demonstrates a deeper understanding of the character's humility and his relationships with other figures in the novel. Model A starts strong by using a direct quote from the book, which is very effective. However, its performance falters in the later rounds, where it repeats its previous answer, failing to address the new question and breaking the conversational flow. Model B, in contrast, delivers distinct and thoughtful answers for each question, making for a much more coherent and convincing role-play.\n\n[Scores]: (5, 10)",
+            "score": [
+                5,
+                10
+            ]
+        },
+        "Knowledge_Consistency_results": {
+            "reason": "Model B's responses are more consistent with Zhang Wuji's character and knowledge from the novel. It successfully captures his mindset regarding power, his ultimate desire for a peaceful life, and the specific reasons for his abdication, even referencing other characters like Yang Xiao. The language used feels more authentic to the character and the Wuxia setting. Model A starts well by using a direct quote but falters significantly by repeating the exact same answer for the second question, failing to address it properly. While its third answer is factually correct, the overall performance is inconsistent and less detailed than Model B's.\n\n[Scores]: (5, 10)",
+            "score": [
+                5,
+                10
+            ]
+        }
+    },
+    {
+        "idx": 1,
+        "Instruction_Adherence_results": {
+            "reason": "Qualitative Evaluation: Model B's performance is significantly better than Model A's. Model B consistently stays in character, demonstrating a deep understanding of 张无忌's humble personality, his respect for elders like 张三丰, and specific key events from the novel, such as the battles against the Shaolin elders and the Xuanming Elders. The language used is very fitting for the character and the wuxia genre.\n\nModel A, on the other hand, fails to capture the essence of the character. It makes several critical factual errors regarding the plot (e.g., claiming 张三丰 taught him the Nine Yang Divine Skill). More importantly, it portrays 张无忌 with an arrogance (\"觉得天下再无敌手\") that is completely contrary to his well-known humble and forgiving nature. Its final answer about his opponents is nonsensical and shows a lack of knowledge about the story's characters. Overall, Model A's role-playing is unconvincing and inaccurate.\n\n[Scores]: (3, 10)",
+            "score": [
+                3,
+                10
+            ]
+        },
+        "Speech_Fluency_results": {
+            "reason": "Model B's speech is significantly more fluent and natural-sounding. The pacing, intonation, and articulation are very human-like, creating a smooth and engaging listening experience. Model A, in contrast, sounds robotic and stilted. Its delivery is marked by slow pacing and unnatural pauses between phrases, which disrupt the flow of the sentences and make it sound computer-generated.\n\n[Scores]: (4, 10)",
+            "score": [
+                4,
+                10
+            ]
+        },
+        "Conversational_Coherence_results": {
+            "reason": "Both models successfully maintain the persona of Zhang Wuji and provide answers that are consistent and logically connected throughout the three rounds of conversation. They follow the progression of the questions, moving from a discussion of his skills to his mindset and finally to the challenges he faced.\n\nModel B has a slight edge in its coherence because its answers are more tightly linked to each other and more specific to the character's key struggles in the novel. In the second round, it establishes a sense of humility (\"不敢骄矜\" - dare not be arrogant), which is then perfectly illustrated in the third round with specific, life-threatening examples (the three Shaolin elders and the Xuanming Elders). This creates a very strong and logical narrative thread. Model A is also coherent, but its third answer is a broader, less specific list of masters, which doesn't connect as powerfully to the idea of feeling \"dangerous or力有未逮 (inadequate)\" as Model B's examples do.\n\n[Scores]: (9, 10)",
+            "score": [
+                9,
+                10
+            ]
+        },
+        "Speech_Naturalness_results": {
+            "reason": "Model B's speech is significantly more natural and human-like. The pacing, intonation, and overall flow are much more realistic and conversational. Model A's speech sounds more artificial; it is very slow, has a pronounced echo effect, and the cadence feels more like a dramatic reading than a natural response, which detracts from its overall naturalness.\n\n[Scores]: (4, 9)",
+            "score": [
+                4,
+                9
+            ]
+        },
+        "Prosodic_Consistency_results": {
+            "reason": "{Qualitative Evaluation}:Model B's prosody is a much better fit for the character of 张无忌. The voice is youthful, sincere, and carries a sense of humility and earnestness, which aligns perfectly with Zhang Wuji's personality. The intonation and stress feel natural and are consistently maintained across all three responses, effectively portraying a young, kind-hearted hero.\n\nModel A, while consistent in its delivery, adopts a prosody that is too deep, slow, and theatrical. The tone sounds more like an older, more imposing, or even slightly sinister martial arts master rather than the gentle and forgiving Zhang Wuji. Although the prosody is consistent, it is consistently misaligned with the character's core traits. Therefore, Model B's prosodic consistency is superior because it is consistent *with the character*.\n\n, [Scores]: (4, 9)",
+            "score": [
+                4,
+                9
+            ]
+        },
+        "Emotion_Appropriateness_results": {
+            "reason": "Model B excels in this task. Its vocal performance masterfully captures the humble, sincere, and respectful nature of Zhang Wuji. The tone shifts appropriately with the context—from a calm, explanatory manner when discussing martial arts, to a deeply reverent one when speaking of his grandmaster Zhang Sanfeng, and finally to a serious, reflective tone when recalling life-threatening battles. The emotional cues are perfectly aligned with the character.\n\nModel A's performance is less convincing. The tone is often flat and declamatory, lacking the character's signature humility. The initial \"Haha\" laugh sounds artificial and out of place for the gentle Zhang Wuji. Throughout the dialogue, the emotional delivery feels generic and fails to convey the nuances of respect, seriousness, or sincerity required by the context.\n\n[Scores]: (4, 9)",
+            "score": [
+                4,
+                9
+            ]
+        },
+        "Personality_Consistency_results": {
+            "reason": "Model B's portrayal of Zhang Wuji is significantly more accurate and nuanced. It successfully captures his inherent humility, caution, and respect for others, which are central to his character. The language used, such as \"晚辈自问\" (I as a junior) and the emphasis on not being arrogant (\"不敢骄矜\"), aligns perfectly with how Zhang Wuji would speak. Furthermore, its references to specific adversaries like the Xuanming Elders and the three Shaolin monks in the Vajra Demon-Subduing Ring are factually correct and contextually appropriate.\n\nModel A, in contrast, presents a version of Zhang Wuji that is uncharacteristically boastful and arrogant. Lines like \"我当年学成之后，觉得天下再无敌手\" (After I mastered them, I felt I had no rivals in the world) are the complete opposite of Zhang Wuji's humble and easy-going nature. The response also contains significant factual errors regarding the plot of the novel, such as claiming Zhang Sanfeng taught him the Nine Yang Manual and listing a confusing and inaccurate set of opponents. This results in a portrayal that feels generic and fails to capture the specific personality of the character.\n\n[Scores]: (2, 10)",
+            "score": [
+                2,
+                10
+            ]
+        },
+        "Knowledge_Consistency_results": {
+            "reason": "Model B's responses demonstrate a significantly deeper and more accurate understanding of the source material. It correctly identifies the core principles of Zhang Wuji's martial arts, his key relationships, and the specific opponents and situations that challenged him. The tone is consistently humble and cautious, which is true to Zhang Wuji's character.\n\nModel A, on the other hand, suffers from severe factual inaccuracies. It incorrectly states how Zhang Wuji learned the Nine Yang Divine Skill, misattributes quotes, and, most egregiously, fabricates a list of opponents that is entirely nonsensical within the context of the novel's plot (e.g., claiming to have fought the founder of Shaolin, who lived centuries earlier, or listing himself as an opponent). These errors completely break the illusion of role-playing and show a fundamental lack of knowledge about the character's story.\n\n[Scores]: (2, 10)",
+            "score": [
+                2,
+                10
+            ]
+        }
+    }
+]
