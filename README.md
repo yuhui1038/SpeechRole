@@ -12,7 +12,7 @@
 </div>
 
 
-![Introduction](./assets/images/intro.png)
+![Introduction](./assets/images/intro.jpg)
 
 
 
