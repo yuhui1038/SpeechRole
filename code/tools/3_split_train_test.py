@@ -34,7 +34,7 @@ for turn in ["single", "multi"]:
         train_data = data[2:] if len(data) > 2 else []
 
         # 读取角色profile
-        profile_path = f"/mnt/data_26/projects/audio_llm_eval/github/code/metadata/role_profiles/{role}_profile.txt"
+        profile_path = f"metadata/role_profiles/{role}_profile.txt"
         try:
             with open(profile_path, 'r', encoding='utf-8') as f:
                 profile = f.read().strip()
