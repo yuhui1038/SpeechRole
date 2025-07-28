@@ -110,7 +110,7 @@ def main(mode, test_model):
         line = gt_data[0]['system_prompt'].split('\n')[0]
         role_name = line.split("I want you to act like ")[-1][:-1]
 
-        test_data_path = f"raw_data/{test_model}/{mode}_result/json/{role}.json"
+        test_data_path = f"model_output/{test_model}/{mode}_result/json/{role}.json"
         with open(test_data_path, 'r') as f:
             test_data = json.load(f)
 
