@@ -15,6 +15,7 @@ import traceback
 import glob
 
 # 配置参数
+uid = ""
 appid = ""
 access_token = ""
 cluster = "volcano_tts"  # 火山引擎集群
@@ -52,7 +53,7 @@ def tts_request(text, output_path):
                 "cluster": cluster
             },
             "user": {
-                "uid": "388808087185088"
+                "uid": uid
             },
             "audio": {
                 "voice_type": voice_type,
