@@ -16,7 +16,7 @@
 
 ## 📖 Citation
 
-If you find our code or paper helps, please consider citing:
+If you find our dataset, benchmark, or paper helpful, please consider citing:
 
 <div align="left">
 
