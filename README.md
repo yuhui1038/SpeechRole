@@ -13,15 +13,15 @@
 
 ![Introduction](intro.jpg)
 
+<div align="left">
+
 ## 📋 Evaluation Data
 
-The evaluation data for SpeechRole benchmark is available at: [https://huggingface.co/datasets/yuhui1038/SpeechRole-Eval](https://huggingface.co/datasets/yuhui1038/SpeechRole-Eval)
+🤗 The evaluation data for SpeechRole benchmark is available at: [https://huggingface.co/datasets/yuhui1038/SpeechRole-Eval](https://huggingface.co/datasets/yuhui1038/SpeechRole-Eval)
 
 ## 📖 Citation
 
 If you find our dataset, benchmark, or paper helpful, please consider citing:
-
-<div align="left">
 
 ```bibtex
 @article{jiang2025speechrole,
