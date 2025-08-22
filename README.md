@@ -4,11 +4,11 @@
     <h2> SpeechRole: A Large-Scale Dataset and Benchmark for Evaluating Speech Role-Playing Agents </h2>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2508.02013v1">Paper</a> •
-  <a href="https://huggingface.co/datasets/yuhui1038/SpeechRole-Eval">Benchmark</a> •
-  <a href="https://huggingface.co/datasets/yuhui1038/SpeechRole-Data">Data</a> •
-  <a href="https://huggingface.co/yuhui1038/SpeechRole-Agent">Model</a> •
-  <a href="#-citation">Citation</a>
+  📄 <a href="https://arxiv.org/abs/2508.02013v1">Paper</a> •
+  🏆 <a href="https://huggingface.co/datasets/yuhui1038/SpeechRole-Eval">Benchmark</a> •
+  📊 <a href="https://huggingface.co/datasets/yuhui1038/SpeechRole-Data">Data</a> •
+  🤖 <a href="https://huggingface.co/yuhui1038/SpeechRole-Agent">Model</a> •
+  📚 <a href="#-citation">Citation</a>
 </p>
 
 ![Introduction](intro.jpg)
@@ -18,6 +18,8 @@
 
 If you find our code or paper helps, please consider citing:
 
+<div align="left">
+
 ```bibtex
 @article{jiang2025speechrole,
   title={SpeechRole: A Large-Scale Dataset and Benchmark for Evaluating Speech Role-Playing Agents},
@@ -26,3 +28,5 @@ If you find our code or paper helps, please consider citing:
   year={2025}
 }
 ```
+
+</div>
